@@ -10,7 +10,7 @@ export default function About(){
         <div>
 
             <img src="about.png" alt="photo" className=" w-70 h-80 ml-200  mt-[-400px] hover:-translate-y-3 hover:scale-105 cursor-pointer hover:shadow-purple-500 " />
-            <img src="about.png" alt="photo" className=" w-70 h-80 ml-200  mt-[-400px] hover:-translate-y-3 hover:scale-105 cursor-pointer hover:shadow-purple-500 " />
+           
 
         </div>
         </>
