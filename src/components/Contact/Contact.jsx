@@ -15,7 +15,7 @@ return(
 
 </div>
 <div>
-    <img src="https://files.oaiusercontent.com/file-CXDh1jgLFz9oprHNJKyTcc?se=2025-03-24T11%3A39%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D71b01878-809f-4c83-b1ef-c8deb2fb45f4.webp&sig=zcvVt9nwJo5HNAjQnZyhpofshZfs1ORvSepb/f/expY%3D" alt="" className="w-80 h-80 ml-200 mt-[-250px] rounded-md hover:shadow-2xl hover:shadow-purple-500 " />
+    <img src="https://github.com/Ayush-Bansal08/Portfolio/blob/main/DALL%C2%B7E%202025-03-27%2016.30.11%20-%20A%20creative%20and%20modern%20contact%20page%20illustration%20featuring%20a%20futuristic%20communication%20concept.%20The%20image%20includes%20a%203D%20holographic%20interface%20where%20a%20pe.webp" alt="" className="w-80 h-80 ml-200 mt-[-250px] rounded-md hover:shadow-2xl hover:shadow-purple-500 " />
 </div>
 <div>
     <a href="https://github.com/Ayush-Bansal08" className="bg-blue-600 text-white font-bold p-3 hover:bg-red-600 ml-50 rounded-md" >Github</a>
