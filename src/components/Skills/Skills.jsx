@@ -18,9 +18,9 @@ const Skills = () => {
         {/* Row 2 */}
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
-        <img src="https://legacy.reactjs.org/logo-og.png" alt="HTML" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
+        <img src="https://files.oaiusercontent.com/file-HtduMwCKrYJ7fk1QFHFUwp?se=2025-03-27T12%3A00%3A33Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dbf71cca7-5f04-4866-a4e9-c9b01dcb20c1.webp&sig=BrCH7M2ouwcKSRBetYrgdJEmy3GF9G37uwHQEWg4TYk%3D" alt="HTML" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="React" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
-        <img src="https://files.oaiusercontent.com/file-R69YPyupVhJKjzWsj57zM3?se=2025-03-24T11%3A05%3A29Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dee925037-b67e-484a-82c0-ed14bbef1fca.webp&sig=nGvq4tWRQAwH1cIcVOwg0O%2BMxFz96m63FWWUKPEW9xE%3D" alt="tailwind" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
+        <img src="https://files.oaiusercontent.com/file-4qJErmbJnQRZRD61XA29Y7?se=2025-03-27T12%3A02%3A22Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4e16ca66-119b-4ac2-a338-728340ae3788.webp&sig=WK6aPv1fz58frXmTC52lo2aw8JsHt2GT5RSqs5WW/S0%3D" alt="tailwind" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
       </div>
     </div>
   );
