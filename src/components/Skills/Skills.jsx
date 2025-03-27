@@ -18,7 +18,7 @@ const Skills = () => {
         {/* Row 2 */}
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
-        <img src="https://files.oaiusercontent.com/file-VSV4kA17CyNw1fWeLf5v7Q?se=2025-03-24T11%3A04%3A47Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dab45526e-6d07-4171-8f68-93e3de0562a5.webp&sig=NBRfpfvZxZzvdHoWojKgWa%2Bt4xbN33JdWaAT7Ua/zc4%3D" alt="HTML" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
+        <img src="https://legacy.reactjs.org/logo-og.png" alt="HTML" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="React" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
         <img src="https://files.oaiusercontent.com/file-R69YPyupVhJKjzWsj57zM3?se=2025-03-24T11%3A05%3A29Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dee925037-b67e-484a-82c0-ed14bbef1fca.webp&sig=nGvq4tWRQAwH1cIcVOwg0O%2BMxFz96m63FWWUKPEW9xE%3D" alt="tailwind" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
       </div>
