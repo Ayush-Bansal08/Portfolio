@@ -9,7 +9,7 @@ export default function About(){
         </div>  
         <div>
 
-            <img src="https://files.oaiusercontent.com/file-DXdd2ntBNogD8c3M6cPbus?se=2025-03-27T11%3A49%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D24282395-0e59-4789-886f-eb1eb1a06c73.webp&sig=9QAHdpfJaLuerL2a3KH9B1RicfYbq9N9U30UaOpAi1g%3D" alt="photo" className=" w-70 h-80 ml-200  mt-[-400px] hover:-translate-y-3 hover:scale-105 cursor-pointer hover:shadow-purple-500 " />
+            <img src="about.png" alt="photo" className=" w-70 h-80 ml-200  mt-[-400px] hover:-translate-y-3 hover:scale-105 cursor-pointer hover:shadow-purple-500 " />
             <img src="about.png" alt="photo" className=" w-70 h-80 ml-200  mt-[-400px] hover:-translate-y-3 hover:scale-105 cursor-pointer hover:shadow-purple-500 " />
 
         </div>
