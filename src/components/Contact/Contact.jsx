@@ -15,11 +15,8 @@ return(
 
 </div>
 <div>
-<<<<<<< HEAD
-    <img src="https://files.oaiusercontent.com/file-TMk27hZDWKFoHhXbQKn3Dy?se=2025-03-27T11%3A46%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Def0d7677-2a7f-481d-9b64-177fa60c28e3.webp&sig=GZd2goPhFldn%2BpKIPmtY%2B1y%2BxYeRsAGg1wTIi5RV3iY%3D" alt="" className="w-80 h-80 ml-200 mt-[-250px] rounded-md hover:shadow-2xl hover:shadow-purple-500 " />
-=======
-    <img src="https://tse4.mm.bing.net/th?id=OIP.Y64zo6idinAtdWb-NOktKQHaHa&pid=Api&P=0&h=180" alt="" className="w-80 h-80 ml-200 mt-[-250px] rounded-md hover:shadow-2xl hover:shadow-purple-500 " />
->>>>>>> 678719c (fourthcommt)
+    <img src="contact.png" alt="" className="w-80 h-80 ml-200 mt-[-250px] rounded-md hover:shadow-2xl hover:shadow-purple-500 " />
+
 </div>
 <div>
     <a href="https://github.com/Ayush-Bansal08" className="bg-blue-600 text-white font-bold p-3 hover:bg-red-600 ml-50 rounded-md" >Github</a>
