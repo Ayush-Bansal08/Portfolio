@@ -6,7 +6,7 @@ function Projects(){
 <> 
 <div className="bg-gray-600 w-60 ml-40 text-center mt-15 hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://ayush-bansal08.github.io">
-<img src="https://up.yimg.com/ib/th?id=OIP.eeo1M11Ox0NSzIcPvcr5gQHaEc&pid=Api&rs=1&c=1&qlt=95&w=201&h=120" alt="" />
+<img src="https://st2.depositphotos.com/1032577/6582/i/950/depositphotos_65828845-stock-photo-portfolio-written-on-notebook.jpg" alt="" />
 </a>
 <h1 className="text-white font-bold">My first project was a basic personal profile page using HTML,CSS.</h1>
 </div>
