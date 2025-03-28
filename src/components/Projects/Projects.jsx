@@ -6,12 +6,12 @@ function Projects(){
 <> 
 <div className="bg-gray-600 w-70 ml-40 text-center mt-15 hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://ayush-bansal08.github.io">
-<img src="https://up.yimg.com/ib/th?id=OIP.iFXmtY2wWqecyaM3IIWXswHaJJ&pid=Api&rs=1&c=1&qlt=95&w=97&h=120" alt="" />
+<img src="https://up.yimg.com/ib/th?id=OIP.eeo1M11Ox0NSzIcPvcr5gQHaEc&pid=Api&rs=1&c=1&qlt=95&w=201&h=120" alt="" />
 </a>
 <h1 className="text-white font-bold">My first project was a basic personal profile page using HTML,CSS.</h1>
 </div>
 
-<div className="w-70 ml-160 mb-150 mt-[-330px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
+<div className="w-70 ml-160 mb-150 mt-[-290px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://ayush-bansal08.github.io/Netflix/">
 <img src="https://jobs.netflix.com/static/images/Netflix-Social-Rectangle.png" alt="" />
 </a>
