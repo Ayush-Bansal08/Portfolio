@@ -9,7 +9,7 @@ export default function About(){
         </div>  
         <div>
 
-            <img src="about.png" alt="photo" className=" w-70 h-80 ml-200  mt-[-400px] hover:-translate-y-3 hover:scale-105 cursor-pointer hover:shadow-purple-500 " />
+            <img src="https://img.freepik.com/premium-photo/portrait-handsome-guy-glasses-image-generated-by-ai_803126-1189.jpg" alt="photo" className=" w-70 h-80 ml-200  mt-[-400px] hover:-translate-y-3 hover:scale-105 cursor-pointer hover:shadow-purple-500 " />
            
 
         </div>
