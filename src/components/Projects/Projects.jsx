@@ -18,7 +18,7 @@ function Projects(){
 <h2 className="text-white font-bold">This is a project made using HYML,CSS,JAVASCRIPT. This project is not completed fully but i tried to make a similar login page just like Netflix. Here i made a cursor such that it changes colour every time it moves an inch.</h2>
 </div>
 
-<div className="w-70 ml-230 mb-135  mt-[-800px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
+<div className="w-70 ml-230 mb-135  mt-[-825px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://passwordgenerator-blond-chi.vercel.app/">
 <img src="https://img.freepik.com/free-photo/flat-lay-laptop-with-ethernet-cables-notebook-with-password_23-2148578080.jpg?ga=GA1.1.2029584824.1735299451&semt=ais_hybrid" alt="" />
 </a>
