@@ -11,7 +11,7 @@ function Projects(){
 <h1 className="text-white font-bold">My first project was a basic personal profile page using HTML,CSS.</h1>
 </div>
 
-<div className="w-70 ml-160 mb-150 mt-[-290px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
+<div className="w-70 ml-160 mb-150 mt-[-250px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://ayush-bansal08.github.io/Netflix/">
 <img src="https://jobs.netflix.com/static/images/Netflix-Social-Rectangle.png" alt="" />
 </a>
