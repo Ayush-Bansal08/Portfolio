@@ -20,7 +20,7 @@ const Skills = () => {
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
         <img src="react.png" alt="HTML" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="React" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
-        <img src="tailwind.png" alt="tailwind" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
+        <img src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" alt="tailwind" className="w-38 h-40 hover:scale-125 hover:rotate-12 hover:shadow-2xl hover:shadow-purple-500" />
       </div>
     </div>
   );
