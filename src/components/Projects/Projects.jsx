@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 function Projects(){
     return(
 <> 
-<div className="bg-gray-600 w-60 ml-40 text-center mt-15 hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
+<div className="bg-gray-600 w-70 ml-40 text-center mt-15 hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://ayush-bansal08.github.io">
 <img src="https://st2.depositphotos.com/1032577/6582/i/950/depositphotos_65828845-stock-photo-portfolio-written-on-notebook.jpg" alt="" />
 </a>
