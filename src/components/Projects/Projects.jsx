@@ -4,14 +4,14 @@ import { NavLink } from "react-router-dom";
 function Projects(){
     return(
 <> 
-<div className="bg-gray-600 w-70 ml-20 text-center mt-12 hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
+<div className="bg-gray-600 w-70 ml-20 text-center mt-9 hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://ayush-bansal08.github.io">
 <img src="https://st2.depositphotos.com/1032577/6582/i/950/depositphotos_65828845-stock-photo-portfolio-written-on-notebook.jpg" alt="" />
 </a>
 <h1 className="text-white font-bold">My first project was a basic personal profile page using HTML,CSS.</h1>
 </div>
 
-<div className="w-70 ml-127 mb-135 mt-[-235px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
+<div className="w-70 ml-127 mb-135 mt-[-240px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
 <a href="https://ayush-bansal08.github.io/Netflix/">
 <img src="https://jobs.netflix.com/static/images/Netflix-Social-Rectangle.png" alt="" />
 </a>
