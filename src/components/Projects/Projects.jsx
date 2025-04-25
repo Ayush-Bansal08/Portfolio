@@ -25,6 +25,12 @@ function Projects(){
 <h2 className="text-white font-bold">This is a project made using HYML,CSS,JAVASCRIPT. Here oyu can easily generate your password which can include characters and numbers and the length of the password can also be decided by you.</h2>
 </div>
 
+<div className="w-70 ml-127 mb-135 mt-[-240px] bg-gray-700 text-center hover:scale-100 hover:shadow-2xl hover:shadow-purple-500">
+<a href="https://ayush-bansal08.github.io/Netflix/">
+<img src="https://jobs.netflix.com/static/images/Netflix-Social-Rectangle.png" alt="" />
+</a>
+<h2 className="text-white font-bold">This is a project made using HYML,CSS,JAVASCRIPT. This project is not completed fully but i tried to make a similar login page just like Netflix. Here i made a cursor such that it changes colour every time it moves an inch.</h2>
+</div>
 </>
     )
 
