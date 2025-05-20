@@ -23,7 +23,7 @@ function Header() {
           </li>
           <li>
             <NavLink
-              to="/about"
+              to="/About"
               className="text-white text-lg hover:text-blue-800 underline"
             >
               About
@@ -31,7 +31,7 @@ function Header() {
           </li>
           <li>
             <NavLink
-              to="/skills"
+              to="/Skills"
               className="text-white text-lg hover:text-blue-800 underline"
             >
               Skills
@@ -39,7 +39,7 @@ function Header() {
           </li>
           <li>
             <NavLink
-              to="/projects"
+              to="/Projects"
               className="text-white text-lg hover:text-blue-800 underline"
             >
               Projects
@@ -47,7 +47,7 @@ function Header() {
           </li>
           <li>
             <NavLink
-              to="/education"
+              to="/Education"
               className="text-white text-lg hover:text-blue-800 underline"
             >
               Education
@@ -55,7 +55,7 @@ function Header() {
           </li>
           <li>
             <NavLink
-              to="/contact"
+              to="/Contact"
               className="text-white text-lg hover:text-blue-800 underline"
             >
               Contact
